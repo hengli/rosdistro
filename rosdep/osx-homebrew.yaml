@@ -108,6 +108,10 @@ glut:
   osx:
     homebrew:
       packages: []
+graphicsmagick:
+  osx:
+    homebrew:
+      packages: [graphicsmagick]
 graphviz:
   osx:
     homebrew:
