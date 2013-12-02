@@ -303,6 +303,10 @@ openmpi:
   osx:
     homebrew:
       packages: [open-mpi]
+paramiko:
+  osx:
+    pip:
+      packages: [paramiko]
 pcre:
   osx:
     homebrew:
